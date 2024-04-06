@@ -1,3 +1,7 @@
+![image](https://github.com/BiancaScoro/Plant-Idento/assets/120531347/e304a89e-f6b6-4d7e-9840-1ef8dc1f92a7)
+![Uploading image.png…]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
