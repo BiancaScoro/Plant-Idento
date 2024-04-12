@@ -1,7 +1,20 @@
 ![image](https://github.com/BiancaScoro/Plant-Idento/assets/120531347/e304a89e-f6b6-4d7e-9840-1ef8dc1f92a7)
 ![Uploading image.png…]()
+The app's purpose is to identify plant species by the image uploaded. It's major function is to allow the user to upload a photo and then display the plant name. This is done using Dropzone for uploading the image files and the Plant.id API to identify the photo.
 
-
+Dependencies:
+ {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  }
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
